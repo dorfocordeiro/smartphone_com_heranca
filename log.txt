@@ -1,0 +1,8 @@
+Success: Ainda quero um PC novo (LogFileMixin)
+
+Error: Ainda quero um PC novo (LogFileMixin)
+
+Success: Xiaomi Redmi Note 13 Ligado (Xiaomi)
+
+Error: Xiaomi Poco X6 Desligado (Xiaomi)
+
